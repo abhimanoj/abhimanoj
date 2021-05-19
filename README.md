@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-**abhimanoj** 
-
 - 🔭 I’m currently working on Deep Learning project..
 - 🌱 I’m currently learning how to avoid using laptop..
 - 👯 I’m looking to collaborate on ML project..
